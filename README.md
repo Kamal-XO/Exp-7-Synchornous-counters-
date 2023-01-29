@@ -87,7 +87,7 @@ endmodule
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 ![OUTPUT](./rtlu.png)
-![OUTPUT](./rtld.png)
+![OUTPUT](./rtld.jpeg)
 
 ### TIMING DIGRAMS FOR COUNTER  
 
@@ -96,8 +96,8 @@ endmodule
 
 ### TRUTH TABLE 
 
-![OUTPUT](./ttu.png)
-![OUTPUT](./ttc.png)
+![OUTPUT](./ttu.jpeg)
+![OUTPUT](./ttc.jpeg)
 
 ### RESULTS 
 
