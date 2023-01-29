@@ -87,7 +87,7 @@ endmodule
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 ![OUTPUT](./rtlu.png)
-![OUTPUT](./rtld.jpeg)
+![OUTPUT](./rtlc.jpeg)
 
 ### TIMING DIGRAMS FOR COUNTER  
 
